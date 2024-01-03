@@ -1,5 +1,5 @@
 # REMC_HP Library
-
+![REMC Simulation](REMC_visualization.gif)
 ## Overview
 This library is focused on implementing a Replica-Exchange Monte Carlo approach to finding the minimum energy for the Hydrophobic-Polar model, as is described in this paper:
 [A replica exchange Monte Carlo algorithm for protein folding in the HP model, by Chris Thachuk, Alena Shmygelska, and Holger Hoos](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-342)
