@@ -34,7 +34,4 @@ E_star = -9
 
 # Running the REMC simulation
 conformation = REMC(sequence, max_steps, num_MC_steps, min_temp, max_temp, num_replicas, pull_prob, E_star=E_star)
-
-# Output
-print("Conformation:", conformation)
 ```
