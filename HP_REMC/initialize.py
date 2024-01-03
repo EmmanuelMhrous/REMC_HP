@@ -2,7 +2,7 @@ import numpy as np
 
 def position_occupied(position: np.ndarray, conformation: np.ndarray) -> bool:
     """
-    Returns if position is in positions NumPy array.
+    Returns if position is present (or occupied) in the conformation NumPy array.
 
     Parameters:
     position: NumPy array of form [x,y]
