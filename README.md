@@ -20,7 +20,7 @@ pip install numpy
 To use the REMC_HP library, import the REMC function from the package and input the desired parameters; more information about these can be found in the docstrings.
 
 ```python
-from HP_REMC.REMC import REMC
+from REMC_HP import REMC
 
 # Parameters
 sequence = "HHPPHPPHPPHPPHPPHPPHPPHH"  # Example sequence (S1-1 benchmark in paper)
